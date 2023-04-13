@@ -1,27 +1,26 @@
 [![MasterHead](https://camo.githubusercontent.com/8bd5bffa763c294fab1345c2886cf6e453dd03d5a785cdd73619e64fdbc32444/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966)](https://shamilvkdev.io)
-<h1 align="center">Hey👋, I'm Shamil VK</h1>
-<h3 align="center">An Energetic Backend Developer from India.</h3>
+<h1 align="center">Hey👋, I'm Mufeeda PC</h1>
+<h3 align="center">An Energetic Frontend Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilvkdev&label=Profile%20views&color=0e75b6&style=flat" alt="shamilvkdev" /> </p>
 
-- 🔭 I’m currently working on **Osperb Team- A SASS Project**
+- 🔭 I’m currently working on **E-Commerce Project**
 
-- 🌱 I’m currently learning **Typescript, Socket.IO**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **NodeJS, Typescript, ExpressJS**
+- 💬 Ask me about **React, React Native**
 
-- 📫 How to reach me **shamilvkage@gmail.com**
+- 📫 How to reach me **pcmufeeda@gmail.com**
 
-- ⚡ Fun fact **I'm an Omnivert.**
+- ⚡ Fun fact **I'm Enthusiastic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shamil vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamil vk" height="30" width="40" /></a>
-<a href="https://fb.com/shamil vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamil vk" height="30" width="40" /></a>
-<a href="https://instagram.com/lma0_ku10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lma0_ku10" height="30" width="40" /></a>
-<a href="https://discord.gg/KU10S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KU10S" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mufeeda pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamil vk" height="30" width="40" /></a>
+<a href="https://fb.com/mufeeda pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamil vk" height="30" width="40" /></a>
+<a href="https://instagram.com/pcmufeeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lma0_ku10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
